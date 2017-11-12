@@ -1,0 +1,7 @@
+./src/Player.java
+./src/Client.java
+./src/Display.java
+./src/GameServer.java
+./src/ManagementServer.java
+./src/ClientOld.java
+./src/ServerOld.java
